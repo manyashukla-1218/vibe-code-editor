@@ -1,4 +1,6 @@
-## 🧠 Vibecode Editor – AI-Powered Web IDEhttps://private-user-images.githubusercontent.com/191825521/531817629-e9325926-2eae-452b-a4e8-1570f00d645c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI2MjY5NDAsIm5iZiI6MTc3MjYyNjY0MCwicGF0aCI6Ii8xOTE4MjU1MjEvNTMxODE3NjI5LWU5MzI1OTI2LTJlYWUtNDUyYi1hNGU4LTE1NzBmMDBkNjQ1Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwNFQxMjE3MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYzQ3Y2E1Y2U3MGY4N2UzNzcyNTY2MTFlNTExNTAyNmY2NDUzYjQxZWIwNTc4NzhmYjkwZDI2MmJmOTdhYmYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2oHw8MRYizc6zVEmCfhKfAq3nJd84seY5iJXG6hXKq8
+## Vibecode Editor – AI-Powered Web IDE
+
+![VibeCode Editor Screenshot](https://private-user-images.githubusercontent.com/191825521/531817629-e9325926-2eae-452b-a4e8-1570f00d645c.png)
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e9325926-2eae-452b-a4e8-1570f00d645c" />
 
 **Vibecode Editor** is a blazing-fast, AI-integrated web IDE built entirely in the browser using **Next.js App Router**, **WebContainers**, **Monaco Editor**, and **local LLMs via Ollama**. It offers real-time code execution, an AI-powered chat assistant, and support for multiple tech stacks — all wrapped in a stunning developer-first UI.
